@@ -1,8 +1,8 @@
 ## About me:
 
 <p style="margin:0.5rem; width: 100%; font-size: 100%" > 
-  - 🔭 I’m currently working at Nouvenn as Intern Firmware Enginner  <br>
-  - 🌱 I’m currently studying Telecommunication Enginner at Inatel  <br>
+  - 🔭 I’m currently working at Nouvenn as Analyst of Systems Development  <br>
+  - 🌱 I’m currently studying Telecommunication Engineer at Inatel  <br>
   - 💬 Ask me about anything science <br>
   - 📫 Contact: arielli.a@get.inatel.br || arielli.ajudarte@nouvenn.com  <br>
   - ⚡ Fun fact: My first line of code was for Arduino <br>
