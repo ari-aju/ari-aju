@@ -3,8 +3,7 @@
 <p style="margin:0.5rem; width: 100%; font-size: 100%" > 
   - 🔭 I’m currently working at Nouvenn as Analyst of Systems Development  <br>
   - 🌱 I’m currently studying Telecommunication Engineer at Inatel  <br>
-  - 💬 Ask me about anything science <br>
-  - 📫 Contact: arielli.a@get.inatel.br || arielli.ajudarte@nouvenn.com  <br>
+  - 📫 Contact: arielli.a@get.inatel.br || Contact: arielly-ajudarte@hotmail.com ||arielli.ajudarte@nouvenn.com  <br>
   - ⚡ Fun fact: My first line of code was for Arduino <br>
 </p>
 
@@ -29,7 +28,10 @@
 
   <img style="margin:0.5rem; width: 65%; float: left;" src="https://github-readme-stats.vercel.app/api?username=ari-aju&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="ari-aju's GitHub Stats" />
 
-  <img style="margin:0.5rem; width: 29%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari-aju&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+  <img style="margin:0.5rem; width: 29%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari-aju&hide=html,css&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=orgs"/>
+
+</p>
+
 
 
 </p>
