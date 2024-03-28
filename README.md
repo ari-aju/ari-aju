@@ -2,8 +2,8 @@
 
 <p style="margin:0.5rem; width: 100%; font-size: 100%" > 
   - 🔭 I’m currently working at Nouvenn as Analyst of Systems Development  <br>
-  - 🌱 I’m currently studying Telecommunication Engineer at Inatel  <br>
-  - 📫 Contact: arielli.a@get.inatel.br || Contact: arielly-ajudarte@hotmail.com ||arielli.ajudarte@nouvenn.com  <br>
+  - 🎓 I have a degree in Telecommunications Engineering from Inatel.  <br>
+  - 📫 Contact: arielli.a@get.inatel.br || Contact: arielly-ajudarte@hotmail.com || arielli.ajudarte@nouvenn.com  <br>
   - ⚡ Fun fact: My first line of code was for Arduino <br>
 </p>
 
